@@ -1,6 +1,6 @@
 # Client Data Migration — GDPR‑Safe Demo (R)
 
-This repository contains a **slimmed‑down, fully anonymised example** of a client data cleaning and migration workflow. The purpose is to showcase R skills in **data wrangling, recoding, validation, and migration mapping** without exposing any personal or sensitive information.
+This repository contains a **slimmed‑down, fully anonymised example** of a client data cleaning and migration workflow, inspired by a real project with a charity. The purpose is to showcase R skills in **data wrangling, recoding, validation, and migration mapping** without exposing any personal or sensitive information.
 
 ---
 
